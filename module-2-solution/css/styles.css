@@ -25,7 +25,6 @@ span.title {
   top: 0;
   right: 0;
   border: 1px solid black;
-  background-color: #0FF000;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 30px;
@@ -35,18 +34,18 @@ span.title {
 }
 
 span.wheat {
-	background-color: wheat;
-	color: black;
+  background-color: wheat;
+  color: black;
 }
 
 span.indianred {
-	background-color: indianred;
-	color: white;
+  background-color: indianred;
+  color: white;
 }
 
 span.pink {
-	background-color: pink;
-	color: black;
+  background-color: pink;
+  color: black;
 }
 
 /* Simple Responsive Framework. */
